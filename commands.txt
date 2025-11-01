@@ -1,1 +1,9 @@
-git init,git add,git commit,git push,git ignore,git status,git diff,git log,git revert,
+git init - initializes a repository.
+git add - includes the changes to be committed.
+git commit - for saving progress.
+git push - for putting the whole task on github.
+git ignore - not sure
+git status - shows the current state of the current directory if theres any modification or change.
+git diff - lists the changes and modifications in the current working directory accordingly.
+git log -  just like call logs, gives us a track of the commit history.
+git revert - undoing a specific commit and redoing a new one.
