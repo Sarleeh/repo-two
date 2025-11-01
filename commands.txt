@@ -7,4 +7,3 @@ git status - shows the current state of the current directory if theres any modi
 git diff - lists the changes and modifications in the current working directory accordingly.
 git log -  just like call logs, gives us a track of the commit history.
 git revert - undoing a specific commit and redoing a new one.
-Mistake
